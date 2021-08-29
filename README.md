@@ -8,7 +8,7 @@ My name is Amanda Rozi Kurnia👩🏻‍💻 I currently study as a third year I
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 Let's keep in touch:
-  - 📷: [@yashmanda](instagram.com/yashmanda)
+  - 📷: <a href="https://instagram.com/yashmanda" target="_blank"> yashmanda </a>
   - 📩: amandarozikurnia@gmail.com
 <!--   - twitter: yoursemicolon
   - medium:
