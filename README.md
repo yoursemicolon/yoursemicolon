@@ -8,8 +8,10 @@ My name is Amanda Rozi Kurnia👩🏻‍💻 I currently study as a third year I
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 Let's keep in touch:
-  - 📷: <a href="https://instagram.com/yashmanda" target="_blank"> yashmanda </a>
-  - 📩: amandarozikurnia@gmail.com
+  - <a href="https://instagram.com/yashmanda" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="instagram-icon" width="18"></a>
+  - <a href="amandarozikurnia@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width ="18"></a>
+<!--   - <a href="" target="_blank" src=""><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="22"></a> -->
+<!--   - <a href="" target="_blank" src=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="22"></a> -->
 <!--   - twitter: yoursemicolon
   - medium:
   - linkedin:
