@@ -1,6 +1,6 @@
 ### Hello Folks👋
 
-My name is Amanda Rozi Kurnia👩🏻‍💻 I currently study as a third year Informatics Engineering student and am looking to further develop my skills in IT and programming by understanding the use of any programming languages such as C, C++, Java, Javascript, SQL etc. Having passionate about keeping up-to-date with the latest technologies and creative design.
+My name is Amanda Rozi Kurnia👩🏻‍💻 I currently study as a third year Informatics Engineering student and am looking to further develop my skills in IT and programming by understanding the use of any programming languages such as Python, PHP, Javascript, SQL etc. Having passionate about keeping up-to-date with the latest technologies and creative design.
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
